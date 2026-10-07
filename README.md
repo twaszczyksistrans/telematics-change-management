@@ -7,7 +7,7 @@ Hey, I am Tomek, I do my best to serve you and help with migration to the newer 
 
 ![Logisat](./logisat.png "Logisat")
 
-2. Your feedback/bugs is VERY, VERY valuable for the Company and for me, because it helps me to improve the whole system.
+2. Your feedback/bugs is VERY, VERY valuable for the Company and for me, because it helps me to improve the whole system and make operations more efficient.
 
 
 In the future, could be more come to the guidebook (and you are invited to those improvements!!!).
