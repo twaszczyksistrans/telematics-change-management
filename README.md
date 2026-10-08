@@ -18,7 +18,7 @@ Your feedback/bugs is **VERY, VERY** valuable for the Company and for me, becaus
 
 ## 3
 
-In `SIS Telematics` I am able to deliver everything you want (if business/operations requires those changes) - I do not see any technical issues, especially in AI-era. Please explain what to fix/add and I will do it.
+In `SIS Telematics` I am able to deliver everything you want (if the business requires those changes") - I do not see any technical issues, especially in AI-era. Please explain what to fix/add and I will do it.
 
 
 In the future, could be more come to the guidebook (and **YOU** are invited to those improvements!!!).
