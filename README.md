@@ -20,6 +20,10 @@ Your feedback/bugs is **VERY, VERY** valuable for the Company and for me, becaus
 
 In `SIS Telematics` I am able to deliver everything you want (if the business requires those changes") - I do not see any technical issues, especially in AI-era. Please explain what to fix/add and I will do it.
 
+## 4
+
+Please explain more than: "У нас сбои в тахографе". When you request help, please explain what problems do you have exactly. The more details, the better.
+
 
 In the future, could be more come to the guidebook (and **YOU** are invited to those improvements!!!).
 
