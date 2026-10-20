@@ -2,14 +2,12 @@
 
 Hey, I am Tomek, I do my best to serve you and help with migration to the newer version of Telematics system - the goal is wide-company adoption of the system. After weeks of collaboration, I saw repeated patterns and questions that is why, I share this guidebook to make our common work more efficient. ;-)
 
-```
 Сообщения «У нас сбои в тахографе» недостаточно, чтобы понять проблему, уточните  пожалуйста:
 -номер машини
 -когда начались сбои;
 -в чём именно проявляется неисправность ( калибровка, ошибка на дисплее или что-то другое), есть ли коды ошибок или текст сообщений;
 
 Предпочитаю продолжить общение на английском языке.
-```
 
 ## 0
 
