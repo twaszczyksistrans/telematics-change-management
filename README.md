@@ -34,4 +34,8 @@ Please explain more than: "У нас сбои в тахографе". When you r
 
 In the future, could be more come to the guidebook (and **YOU** are invited to those improvements!!!).
 
+## Prośby o oczekiwania i/lub wymagania
+
+To dokładnie TEN MOMENT na Państwa/Wasze WYMAGANIA i/lub OCZEKIWANIA, tak żeby WAM pracowało się ŁATWIEJ i EFEKTYWNIEJ.
+
 Have a good day, Heros ;-)
